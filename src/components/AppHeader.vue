@@ -32,7 +32,7 @@
                 <RouterLink class="button-outline lg:ml-auto" to="/watchlist" @click="isMenuOpen = false">
                     <span aria-hidden="true">♡</span>
                     <span>Watchlist</span>
-                    <span class="badge-red">{{ '#toDo watch fun' }}</span>
+                    <span class="badge-red">{{ '#0' }}</span>
                 </RouterLink>
             </div>
         </nav>
